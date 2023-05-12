@@ -6,7 +6,7 @@ The main class is the main character/player and the Stand user class represents 
 
 - What additional methods (if any) did you implement alongside those listed in the interface? 
 
-I did implement any new methods. If I had more time, I would like to make a method that allows them to choose a stand(spirtual being with powers from Jojo's Bizare Adventure)
+I didn't implement any new methods. If I had more time, I would like to make a method that allows them to choose a stand(spirtual being with powers from Jojo's Bizare Adventure)
 
 
 - What worked, what didn't, what advice would you give someone taking this course in the future?
