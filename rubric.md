@@ -12,16 +12,16 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 _____ 10 pts: The class meaningfully implements each of the methods in described in the `Contract` interface:
 
-      _____ `void grab(String item);`
-      _____ `String drop(String item);`
-      _____ `void examine(String item);`
-      _____ `void use(String item);`
-      _____ `boolean walk(String direction);`
-      _____ `boolean fly(int x, int y);`
-      _____ `Number shrink();`
-      _____ `Number grow();`
-      _____ `void rest();`
-      _____ `void undo();`
+      __YES__ `void grab(String item);`
+      __YES___ `String drop(String item);`
+      __YES___ `void examine(String item);`
+      __YES___ `void use(String item);`
+      __YES__ `boolean walk(String direction);`
+      __YES__ `boolean fly(int x, int y);`
+      __YES___ `Number shrink();`
+      __Yes___ `Number grow();`
+      __YES___ `void rest();`
+      __YES__ `void undo();`
 
 
 ## General Items:
